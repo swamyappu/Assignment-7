@@ -10,4 +10,6 @@ https://youtu.be/WZ6-pkwb9EI
     Actual labels:    [3 8 8 0]
  
  3. Accuracy and Loss Plot
-    ![image](https://user-images.githubusercontent.com/6451556/227098753-ee6fc02a-143a-466f-b07e-2065574cce19.png)
+  
+![image](https://user-images.githubusercontent.com/6451556/227098895-29af0521-d505-44f8-95ff-ba6151606557.png)
+![image](https://user-images.githubusercontent.com/6451556/227098753-ee6fc02a-143a-466f-b07e-2065574cce19.png)
