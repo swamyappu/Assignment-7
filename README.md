@@ -4,10 +4,10 @@ https://youtu.be/WZ6-pkwb9EI
 
 
  1. Accuracy before - 65.22%
-    Accuracy After - 56.46%
+ <br>Accuracy After - 56.46%
    
  2. Predicted labels: [5 8 8 8]
-    Actual labels:    [3 8 8 0]
+<br>Actual labels:    [3 8 8 0]
  
  3. Accuracy and Loss Plot
   
